@@ -22,7 +22,7 @@ Além de servir como material de estudo, o projeto também será evoluído conti
 - FluentValidation
 - Swagger / OpenAPI
 - Docker
-- SQL Server
+- PostgreSQL
 
 ---
 
